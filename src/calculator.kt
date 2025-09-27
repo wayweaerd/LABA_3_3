@@ -13,4 +13,5 @@ fun main() {
         else -> println("Неккоректный ввод")
     }
     println("$num1 $symbol $num2 = $result")
+    println()
 }
